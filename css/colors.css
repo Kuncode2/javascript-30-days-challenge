@@ -1,0 +1,18 @@
+/* color property */
+h1{
+    color: aquamarine;
+}
+button{
+    color: white;
+}
+/* back ground color*/
+body{
+    background-color: rgb(14, 13, 13);
+}
+button{
+    background-color: aquamarine;
+}
+/*rgb red green blue*/
+body{
+    background-color: rgb(140,30,14);
+}

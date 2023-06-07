@@ -1,0 +1,19 @@
+body{
+    background-color: lightgrey;
+}
+
+.Registration-form{
+    text-align: center;
+    padding-top: 35px;
+    border: solid green;
+}
+.titles{
+    width: 15rem;
+    margin: auto;
+    
+}
+.content{
+    display:flex;
+    width: 160rem;
+    text-align:;
+}
