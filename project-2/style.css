@@ -1,19 +1,50 @@
-body{
+.main{
+    background-color: antiquewhite;
+    height: 80vh;
+    width: 75vh;
+    margin: auto;
+    position: relative;
+    transform: translateY(10%);
+}
+.REGISTRATION-FORM .rf-heading{
+    position: relative;
+    padding-top: 15px;
+    background-color: black;
+    height:50px;
+    color: white;
+    text-align: center;
+    margin: auto;    
+}
+.main2{
+    background-color: aquamarine;
+    height: 63vh;
+    width: 65vh;
+    margin: auto;
+    transform: translateY(6%);
+}
+.Name{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    display: flex;
+    gap: 10%;
+}
+.Name-1{
+    height: 40px;
+    margin: auto;
+    border-radius: 10px;
     background-color: lightgrey;
 }
-
-.Registration-form{
-    text-align: center;
-    padding-top: 35px;
-    border: solid green;
+.Company-wrapper{
+    background-color: blue;
+    position: relative;
+    display: flex;
+    gap: 1%;
+    padding-top: 20px;
 }
-.titles{
-    width: 15rem;
+.Company-1{
+    height: 40px;
     margin: auto;
-    
+    width: 90%;
+    border-radius: 10px;
 }
-.content{
-    display:flex;
-    width: 160rem;
-    text-align:;
-}
+
