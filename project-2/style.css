@@ -1,10 +1,10 @@
 .main{
-    background-color: antiquewhite;
     height: 80vh;
     width: 75vh;
     margin: auto;
     position: relative;
     transform: translateY(10%);
+    border: 1px solid black;
 }
 .REGISTRATION-FORM .rf-heading{
     position: relative;
@@ -16,35 +16,112 @@
     margin: auto;    
 }
 .main2{
-    background-color: aquamarine;
     height: 63vh;
     width: 65vh;
     margin: auto;
     transform: translateY(6%);
 }
 .Name{
-    background-color: rgb(255, 255, 255);
-    position: relative;
+    background-color:white;
     display: flex;
-    gap: 10%;
+    justify-content: center;
+    padding-bottom: 13px;
 }
 .Name-1{
     height: 40px;
-    margin: auto;
     border-radius: 10px;
-    background-color: lightgrey;
+    width: 45%;
+    background-color: lightgray;
+    text-align: center;
 }
 .Company-wrapper{
-    background-color: blue;
+    background-color: white;
     position: relative;
     display: flex;
-    gap: 1%;
-    padding-top: 20px;
+    padding-bottom: 13px;
 }
 .Company-1{
     height: 40px;
     margin: auto;
-    width: 90%;
+    width: 100%;
     border-radius: 10px;
+    background-color: lightgray;
 }
+.Email{
+    background-color: white;
+    display: flex;
+    padding-bottom: 13px;
+}
+.Email1{
+    height: 40px;
+    margin: auto;
+    width: 100%;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+.Phone{
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 13px;
+}
+.Phone-1{
+    height: 40px;
+    border-radius: 10px;
+    width: 45%;
+    background-color: lightgray;
+}
+.Subject{
+    background-color: white;
+    display: flex;
+    padding-bottom: 13px;
+}
+
+.Subject-1{
+    height: 40px;
+    margin: auto;
+    width: 100%;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+.two-box{
+    background-color: white;
+    height: 50%; 
+    width: 700%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.name{
+    background-color:white;
+    width:200%
+}
+.Phone-5{
+    width: 25%;
+    background-color: lightgray;
+    border-radius: 13px;
+    height: 40px;
+    text-align: center;
+}
+.Phone-6{
+    width: 65%;
+    background-color: lightgray;
+    border-radius: 13px;
+    height: 40px;
+    text-align: center;
+}
+.submit{
+    position: relative;
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+
+}
+.lunal{
+    width: 20%;
+    height: 50px;
+    border-radius: 13px;
+    background-color:aquamarine;
+}
+
 
